@@ -1,8 +1,6 @@
 # League of Legends project
 
 
-in progress
-
 Data taken from: https://www.kaggle.com/datasets/paololol/league-of-legends-ranked-matches
 
 Public Tableau Link:
