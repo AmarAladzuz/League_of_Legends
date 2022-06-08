@@ -3,7 +3,7 @@
 
 Data taken from: https://www.kaggle.com/datasets/paololol/league-of-legends-ranked-matches
 
-Public Tableau Link:
+Public Tableau Link: https://public.tableau.com/views/LeagueofLegends_16547143310460/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 
 ### Overview
