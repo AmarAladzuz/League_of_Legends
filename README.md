@@ -13,3 +13,6 @@ League of Legends (LoL) is a 2009 multiplayer online battle arena video game dev
 Dataset contains info about 184070 League of Legends ranked solo games (matches, player and team stats, bans), spanning across several years. For this project I used SQL to analyze the data and find some insights.
 
 ![image](https://user-images.githubusercontent.com/99446425/172064059-732880ba-46ea-4b3e-bb10-4206b7d86837.png)
+
+![image](https://user-images.githubusercontent.com/99446425/172929783-13b3e813-32ce-47b7-9e84-dcd8b4187de0.png)
+
